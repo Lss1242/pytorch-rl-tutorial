@@ -36,7 +36,9 @@ All tutorials use Monte Carlo methods to train the CartPole-v1 environment with 
 
     We cover another improvement on A2C, [PPO](https://arxiv.org/abs/1707.06347) (proximal policy optimization).
 
-Potential algorithms covered in future tutorials: DQN, ACER, ACKTR (The original repo has been archived and we will try to implement the rest and other RL algorithms here).
+Potential algorithms covered in future tutorials: DQN, ACER, ACKTR 
+
+(The original repo has been archived and we will try to implement the rest and other RL algorithms here).
 
 ## References
 
